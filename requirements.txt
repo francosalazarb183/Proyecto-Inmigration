@@ -2,4 +2,4 @@ pandas
 matplotlib
 streamlit
 ipykernel
-nunpy
+numpy
