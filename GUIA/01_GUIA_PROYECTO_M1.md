@@ -72,7 +72,6 @@ Cada decisión que toméis con los datos (quitar una columna, rellenar huecos, q
 6. Las métricas.
 7. Las pestañas: la tabla, los gráficos y, si tenéis coordenadas, el mapa.
 8. Una pregunta para el usuario, como "¿Cuánto cobrarías por tu piso?".
-
 Si os atascáis, buscad el mismo paso en vuestro `app_pisos.py` o en `teoria_streamlit.ipynb`.
 
 ## GitHub
